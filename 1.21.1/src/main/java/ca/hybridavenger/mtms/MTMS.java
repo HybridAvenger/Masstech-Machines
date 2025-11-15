@@ -1,21 +1,19 @@
 package ca.hybridavenger.mtms;
 
-import ca.hybridavenger.mtms.util.MTMSCreativeTab;
+import ca.hybridavenger.hybridlib.item.ItemRegistry;
+
+import ca.hybridavenger.mtms.blockentity.ModBlockEntities;
+import ca.hybridavenger.mtms.recipe.ModRecipes;
+import ca.hybridavenger.mtms.registry.BlockRegistry;
+import ca.hybridavenger.mtms.screen.ModMenuTypes;
+import ca.hybridavenger.mtms.screen.crusher.CrusherScreen;
+import ca.hybridavenger.mtms.util.ModCreativeTabs;
 import com.mojang.logging.LogUtils;
-import net.minecraft.client.Minecraft;
-import net.minecraft.core.registries.Registries;
-import net.minecraft.world.food.FoodProperties;
-import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.CreativeModeTabs;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.material.MapColor;
+import net.minecraft.client.gui.screens.MenuScreens;
+
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
+
 import net.minecraftforge.event.server.ServerStartingEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -24,9 +22,7 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.RegistryObject;
+
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -46,7 +42,17 @@ public class MTMS
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
 
-        MTMSCreativeTab.register(modEventBus);
+        ItemRegistry.register(modEventBus);
+        BlockRegistry.register(modEventBus);
+
+
+
+        ModBlockEntities.register(modEventBus);
+
+        ModMenuTypes.register(modEventBus);
+        ModRecipes.register(modEventBus);
+
+        ModCreativeTabs.register(modEventBus);
         context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
 
@@ -74,9 +80,7 @@ public class MTMS
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-            // Some client setup code
-            LOGGER.info("HELLO FROM CLIENT SETUP");
-            LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+            MenuScreens.register(ModMenuTypes.CRUSHER_MENU.get(), CrusherScreen::new);
         }
     }
 }

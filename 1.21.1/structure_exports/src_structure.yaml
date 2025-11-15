@@ -1,0 +1,657 @@
+project_info:
+  name: "src"
+  path: "E:\\MC Mod Dev\\Masstech-Machines\\1.21.1\\src"
+  generatedAt: "2025-11-14T13:21:42.7891069"
+  totalFiles: 17
+  totalSize: 18247
+structure:
+  "generated":
+    type: null
+    info: null
+    children:
+      "resources":
+        type: null
+        info: null
+        children: {}
+  "main":
+    type: null
+    info: null
+    children:
+      "java":
+        type: null
+        info: null
+        children:
+          "ca":
+            type: null
+            info: null
+            children:
+              "hybridavenger":
+                type: null
+                info: null
+                children:
+                  "mtms":
+                    type: null
+                    info: null
+                    children:
+                      "block":
+                        type: null
+                        info: null
+                        children:
+                          "crusher":
+                            type: null
+                            info: null
+                            children:
+                              "CrusherBlock.java":
+                                type: "file"
+                                info:
+                                  "size": "80"
+                                  "last_modified": "2025-11-14T13:21:42.6726557"
+                                  "mime_type": "text/x-java-source"
+                                  "extension": ".java"
+                                children: null
+                          "generators":
+                            type: null
+                            info: null
+                            children:
+                              "fuel":
+                                type: null
+                                info: null
+                                children: {}
+                              "solar":
+                                type: null
+                                info: null
+                                children: {}
+                              "water":
+                                type: null
+                                info: null
+                                children: {}
+                          "poweredfurnace":
+                            type: null
+                            info: null
+                            children:
+                              "PoweredFurnaceBlock.java":
+                                type: "file"
+                                info:
+                                  "size": "94"
+                                  "last_modified": "2025-11-14T13:21:42.6826848"
+                                  "mime_type": "text/x-java-source"
+                                  "extension": ".java"
+                                children: null
+                          "sawmill":
+                            type: null
+                            info: null
+                            children:
+                              "SawMillBlock.java":
+                                type: "file"
+                                info:
+                                  "size": "80"
+                                  "last_modified": "2025-11-14T13:21:42.6871915"
+                                  "mime_type": "text/x-java-source"
+                                  "extension": ".java"
+                                children: null
+                      "blockentity":
+                        type: null
+                        info: null
+                        children:
+                          "crusher":
+                            type: null
+                            info: null
+                            children:
+                              "CrusherEntity.java":
+                                type: "file"
+                                info:
+                                  "size": "87"
+                                  "last_modified": "2025-11-14T13:21:42.692215"
+                                  "mime_type": "text/x-java-source"
+                                  "extension": ".java"
+                                children: null
+                          "generators":
+                            type: null
+                            info: null
+                            children: {}
+                          "ModBlockEntities.java":
+                            type: "file"
+                            info:
+                              "size": "955"
+                              "last_modified": "2025-11-14T13:21:42.6977251"
+                              "mime_type": "text/x-java-source"
+                              "extension": ".java"
+                            children: null
+                          "poweredfurnace":
+                            type: null
+                            info: null
+                            children:
+                              "PoweredFurnaceEntity.java":
+                                type: "file"
+                                info:
+                                  "size": "101"
+                                  "last_modified": "2025-11-14T13:21:42.700733"
+                                  "mime_type": "text/x-java-source"
+                                  "extension": ".java"
+                                children: null
+                          "sawmill":
+                            type: null
+                            info: null
+                            children:
+                              "SawMillEntity.java":
+                                type: "file"
+                                info:
+                                  "size": "87"
+                                  "last_modified": "2025-11-14T13:21:42.7047368"
+                                  "mime_type": "text/x-java-source"
+                                  "extension": ".java"
+                                children: null
+                      "Config.java":
+                        type: "file"
+                        info:
+                          "size": "2709"
+                          "last_modified": "2025-11-14T13:21:42.7102635"
+                          "mime_type": "text/x-java-source"
+                          "extension": ".java"
+                        children: null
+                      "datagen":
+                        type: null
+                        info: null
+                        children:
+                          "DataGenerators.java":
+                            type: "file"
+                            info:
+                              "size": "1313"
+                              "last_modified": "2025-11-14T13:21:42.7122656"
+                              "mime_type": "text/x-java-source"
+                              "extension": ".java"
+                            children: null
+                          "EnglishLanguageProvider.java":
+                            type: "file"
+                            info:
+                              "size": "544"
+                              "last_modified": "2025-11-14T13:21:42.7142672"
+                              "mime_type": "text/x-java-source"
+                              "extension": ".java"
+                            children: null
+                          "FrenchLanguageProvider.java":
+                            type: "file"
+                            info:
+                              "size": "526"
+                              "last_modified": "2025-11-14T13:21:42.71727"
+                              "mime_type": "text/x-java-source"
+                              "extension": ".java"
+                            children: null
+                      "item":
+                        type: null
+                        info: null
+                        children:
+                          "fluidcables":
+                            type: null
+                            info: null
+                            children: {}
+                          "itemcables":
+                            type: null
+                            info: null
+                            children: {}
+                          "powercables":
+                            type: null
+                            info: null
+                            children: {}
+                      "MTMS.java":
+                        type: "file"
+                        info:
+                          "size": "3232"
+                          "last_modified": "2025-11-14T13:21:42.7332491"
+                          "mime_type": "text/x-java-source"
+                          "extension": ".java"
+                        children: null
+                      "recipe":
+                        type: null
+                        info: null
+                        children:
+                          "grinder":
+                            type: null
+                            info: null
+                            children: {}
+                          "poweredfurnace":
+                            type: null
+                            info: null
+                            children: {}
+                          "sawmill":
+                            type: null
+                            info: null
+                            children: {}
+                      "registry":
+                        type: null
+                        info: null
+                        children:
+                          "BlockRegistry.java":
+                            type: "file"
+                            info:
+                              "size": "1291"
+                              "last_modified": "2025-11-14T13:21:42.7430696"
+                              "mime_type": "text/x-java-source"
+                              "extension": ".java"
+                            children: null
+                          "ItemRegistry.java":
+                            type: "file"
+                            info:
+                              "size": "563"
+                              "last_modified": "2025-11-14T13:21:42.7460733"
+                              "mime_type": "text/x-java-source"
+                              "extension": ".java"
+                            children: null
+                      "screen":
+                        type: null
+                        info: null
+                        children:
+                          "generators":
+                            type: null
+                            info: null
+                            children:
+                              "coal":
+                                type: null
+                                info: null
+                                children: {}
+                              "lava":
+                                type: null
+                                info: null
+                                children: {}
+                              "solar":
+                                type: null
+                                info: null
+                                children: {}
+                              "water":
+                                type: null
+                                info: null
+                                children: {}
+                          "grinder":
+                            type: null
+                            info: null
+                            children: {}
+                          "poweredfurnace":
+                            type: null
+                            info: null
+                            children: {}
+                          "sawmill":
+                            type: null
+                            info: null
+                            children: {}
+                      "util":
+                        type: null
+                        info: null
+                        children:
+                          "MTMSCreativeTab.java":
+                            type: "file"
+                            info:
+                              "size": "1177"
+                              "last_modified": "2025-11-14T13:21:42.7645279"
+                              "mime_type": "text/x-java-source"
+                              "extension": ".java"
+                            children: null
+      "resources":
+        type: null
+        info: null
+        children:
+          "META-INF":
+            type: null
+            info: null
+            children:
+              "mods.toml":
+                type: "file"
+                info:
+                  "size": "5325"
+                  "last_modified": "2025-11-14T13:21:42.7750729"
+                  "mime_type": "text/plain"
+                  "extension": ".toml"
+                children: null
+          "pack.mcmeta":
+            type: "file"
+            info:
+              "size": "83"
+              "last_modified": "2025-11-14T13:21:42.778581"
+              "mime_type": "text/plain"
+              "extension": ".mcmeta"
+            children: null
+  "test":
+    type: null
+    info: null
+    children:
+      "java":
+        type: null
+        info: null
+        children: {}
+      "resources":
+        type: null
+        info: null
+        children: {}
+files:
+- path: "main\\java\\ca\\hybridavenger\\mtms\\block\\crusher\\CrusherBlock.java"
+  content: "package ca.hybridavenger.mtms.block.crusher;\r\n\r\npublic class CrusherBlock\
+    \ {\r\n}\r\n"
+  info:
+    "size": "80"
+    "last_modified": "2025-11-14T13:21:42.6726557"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\block\\poweredfurnace\\PoweredFurnaceBlock.java"
+  content: "package ca.hybridavenger.mtms.block.poweredfurnace;\r\n\r\npublic class\
+    \ PoweredFurnaceBlock {\r\n}\r\n"
+  info:
+    "size": "94"
+    "last_modified": "2025-11-14T13:21:42.6826848"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\block\\sawmill\\SawMillBlock.java"
+  content: "package ca.hybridavenger.mtms.block.sawmill;\r\n\r\npublic class SawMillBlock\
+    \ {\r\n}\r\n"
+  info:
+    "size": "80"
+    "last_modified": "2025-11-14T13:21:42.6871915"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\blockentity\\crusher\\CrusherEntity.java"
+  content: "package ca.hybridavenger.mtms.blockentity.crusher;\r\n\r\npublic class\
+    \ CrusherEntity {\r\n}\r\n"
+  info:
+    "size": "87"
+    "last_modified": "2025-11-14T13:21:42.692215"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\blockentity\\ModBlockEntities.java"
+  content: "package ca.hybridavenger.mtms.blockentity;\r\n\r\nimport ca.hybridavenger.mtms.MTMS;\r\
+    \nimport ca.hybridavenger.mtms.blockentity.crusher.CrusherEntity;\r\nimport net.minecraft.world.level.block.entity.BlockEntityType;\r\
+    \nimport net.minecraftforge.eventbus.api.IEventBus;\r\nimport net.minecraftforge.registries.DeferredRegister;\r\
+    \nimport net.minecraftforge.registries.ForgeRegistries;\r\n\r\npublic class ModBlockEntities\
+    \ {\r\n    public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES\
+    \ =\r\n            DeferredRegister.create(ForgeRegistries.BLOCK_ENTITY_TYPES,\
+    \ MTMS.MODID);\r\n\r\n\r\n\r\n    public static final RegistryObject<BlockEntityType<CrusherEntity>>\
+    \ CRUSHER_BE =\r\n            BLOCK_ENTITIES.register(\"crusher_be\", () -> BlockEntityType.Builder.of(\r\
+    \n                    CrusherEntity::new, BlockRegistry.FUSION_CHAMBER.get()).build(null));\r\
+    \n\r\n\r\n\r\n\r\n    public static void register(IEventBus eventBus) {\r\n  \
+    \      BLOCK_ENTITIES.register(eventBus);\r\n    }\r\n}"
+  info:
+    "size": "955"
+    "last_modified": "2025-11-14T13:21:42.6977251"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\blockentity\\poweredfurnace\\PoweredFurnaceEntity.java"
+  content: "package ca.hybridavenger.mtms.blockentity.poweredfurnace;\r\n\r\npublic\
+    \ class PoweredFurnaceEntity {\r\n}\r\n"
+  info:
+    "size": "101"
+    "last_modified": "2025-11-14T13:21:42.700733"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\blockentity\\sawmill\\SawMillEntity.java"
+  content: "package ca.hybridavenger.mtms.blockentity.sawmill;\r\n\r\npublic class\
+    \ SawMillEntity {\r\n}\r\n"
+  info:
+    "size": "87"
+    "last_modified": "2025-11-14T13:21:42.7047368"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\Config.java"
+  content: "package ca.hybridavenger.mtms;\n\nimport net.minecraft.resources.ResourceLocation;\n\
+    import net.minecraft.world.item.Item;\nimport net.minecraftforge.common.ForgeConfigSpec;\n\
+    import net.minecraftforge.eventbus.api.SubscribeEvent;\nimport net.minecraftforge.fml.common.Mod;\n\
+    import net.minecraftforge.fml.event.config.ModConfigEvent;\nimport net.minecraftforge.registries.ForgeRegistries;\n\
+    \nimport java.util.List;\nimport java.util.Set;\nimport java.util.stream.Collectors;\n\
+    \n// An example config class. This is not required, but it's a good idea to have\
+    \ one to keep your config organized.\n// Demonstrates how to use Forge's config\
+    \ APIs\n@Mod.EventBusSubscriber(modid = MTMS.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)\n\
+    public class Config\n{\n    private static final ForgeConfigSpec.Builder BUILDER\
+    \ = new ForgeConfigSpec.Builder();\n\n    private static final ForgeConfigSpec.BooleanValue\
+    \ LOG_DIRT_BLOCK = BUILDER\n            .comment(\"Whether to log the dirt block\
+    \ on common setup\")\n            .define(\"logDirtBlock\", true);\n\n    private\
+    \ static final ForgeConfigSpec.IntValue MAGIC_NUMBER = BUILDER\n            .comment(\"\
+    A magic number\")\n            .defineInRange(\"magicNumber\", 42, 0, Integer.MAX_VALUE);\n\
+    \n    public static final ForgeConfigSpec.ConfigValue<String> MAGIC_NUMBER_INTRODUCTION\
+    \ = BUILDER\n            .comment(\"What you want the introduction message to\
+    \ be for the magic number\")\n            .define(\"magicNumberIntroduction\"\
+    , \"The magic number is... \");\n\n    // a list of strings that are treated as\
+    \ resource locations for items\n    private static final ForgeConfigSpec.ConfigValue<List<?\
+    \ extends String>> ITEM_STRINGS = BUILDER\n            .comment(\"A list of items\
+    \ to log on common setup.\")\n            .defineListAllowEmpty(\"items\", List.of(\"\
+    minecraft:iron_ingot\"), Config::validateItemName);\n\n    static final ForgeConfigSpec\
+    \ SPEC = BUILDER.build();\n\n    public static boolean logDirtBlock;\n    public\
+    \ static int magicNumber;\n    public static String magicNumberIntroduction;\n\
+    \    public static Set<Item> items;\n\n    private static boolean validateItemName(final\
+    \ Object obj)\n    {\n        return obj instanceof final String itemName && ForgeRegistries.ITEMS.containsKey(ResourceLocation.tryParse(itemName));\n\
+    \    }\n\n    @SubscribeEvent\n    static void onLoad(final ModConfigEvent event)\n\
+    \    {\n        logDirtBlock = LOG_DIRT_BLOCK.get();\n        magicNumber = MAGIC_NUMBER.get();\n\
+    \        magicNumberIntroduction = MAGIC_NUMBER_INTRODUCTION.get();\n\n      \
+    \  // convert the list of strings into a set of items\n        items = ITEM_STRINGS.get().stream()\n\
+    \                .map(itemName -> ForgeRegistries.ITEMS.getValue(ResourceLocation.tryParse(itemName)))\n\
+    \                .collect(Collectors.toSet());\n    }\n}\n"
+  info:
+    "size": "2709"
+    "last_modified": "2025-11-14T13:21:42.7102635"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\datagen\\DataGenerators.java"
+  content: "package ca.hybridavenger.mtms.datagen;\r\n\r\nimport ca.hybridavenger.mtms.MTMS;\r\
+    \nimport net.minecraft.core.HolderLookup;\r\nimport net.minecraft.data.DataGenerator;\r\
+    \nimport net.minecraft.data.PackOutput;\r\nimport net.minecraft.data.loot.LootTableProvider;\r\
+    \nimport net.minecraftforge.common.data.ExistingFileHelper;\r\nimport net.minecraftforge.data.event.GatherDataEvent;\r\
+    \nimport net.minecraftforge.eventbus.api.SubscribeEvent;\r\nimport net.minecraftforge.fml.common.Mod;\r\
+    \n\r\nimport java.util.Collections;\r\nimport java.util.List;\r\nimport java.util.concurrent.CompletableFuture;\r\
+    \n\r\n@Mod.EventBusSubscriber(modid = MTMS.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)\r\
+    \npublic class DataGenerators {\r\n\r\n    @SubscribeEvent\r\n    public static\
+    \ void gatherData(GatherDataEvent event){\r\n        DataGenerator generator =\
+    \ event.getGenerator();\r\n        PackOutput packOutput = generator.getPackOutput();\r\
+    \n        ExistingFileHelper existingFileHelper = event.getExistingFileHelper();\r\
+    \n        CompletableFuture<HolderLookup.Provider> lookupProvider = event.getLookupProvider();\r\
+    \n\r\n\r\n\r\n\r\n        //Languages(WIP)\r\n        generator.addProvider(event.includeClient(),\
+    \ new EnglishLanguageProvider(packOutput, \"en_us\"));\r\n        generator.addProvider(event.includeClient(),\
+    \ new FrenchLanguageProvider(packOutput, \"fr_fr\"));\r\n\r\n\r\n    }\r\n}"
+  info:
+    "size": "1313"
+    "last_modified": "2025-11-14T13:21:42.7122656"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\datagen\\EnglishLanguageProvider.java"
+  content: "package ca.hybridavenger.mtms.datagen;\r\n\r\nimport ca.hybridavenger.mtms.MTMS;\r\
+    \nimport net.minecraft.data.PackOutput;\r\nimport net.minecraftforge.common.data.LanguageProvider;\r\
+    \n\r\npublic class EnglishLanguageProvider extends LanguageProvider\r\n{\r\n \
+    \   public EnglishLanguageProvider(PackOutput output, String locale) {\r\n   \
+    \     super(output, MTMS.MODID, locale);\r\n\r\n    }\r\n\r\n    @Override\r\n\
+    \    protected void addTranslations() {\r\n        //Items\r\n\r\n\r\n       \
+    \ //Blocks\r\n\r\n\r\n\r\n        add(\"creativetab.mtms.tabname\", \"MassTech\
+    \ Machinerie\");\r\n    }\r\n}\r\n"
+  info:
+    "size": "544"
+    "last_modified": "2025-11-14T13:21:42.7142672"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\datagen\\FrenchLanguageProvider.java"
+  content: "package ca.hybridavenger.mtms.datagen;\r\n\r\nimport ca.hybridavenger.mtms.MTMS;\r\
+    \nimport net.minecraft.data.PackOutput;\r\nimport net.minecraftforge.common.data.LanguageProvider;\r\
+    \n\r\npublic class FrenchLanguageProvider extends LanguageProvider {\r\n\r\n \
+    \   public FrenchLanguageProvider(PackOutput output, String locale) {\r\n    \
+    \    super(output, MTMS.MODID, locale);\r\n    }\r\n\r\n    @Override\r\n    protected\
+    \ void addTranslations() {\r\n        //Items\r\n\r\n\r\n        add(\"creativetab.mtms.tabname\"\
+    , \"Mod de bibliothèque hybride\");\r\n\r\n    }\r\n}"
+  info:
+    "size": "526"
+    "last_modified": "2025-11-14T13:21:42.71727"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\MTMS.java"
+  content: "package ca.hybridavenger.mtms;\n\nimport ca.hybridavenger.mtms.util.MTMSCreativeTab;\n\
+    import com.mojang.logging.LogUtils;\nimport net.minecraft.client.Minecraft;\n\
+    import net.minecraft.core.registries.Registries;\nimport net.minecraft.world.food.FoodProperties;\n\
+    import net.minecraft.world.item.BlockItem;\nimport net.minecraft.world.item.CreativeModeTab;\n\
+    import net.minecraft.world.item.CreativeModeTabs;\nimport net.minecraft.world.item.Item;\n\
+    import net.minecraft.world.level.block.Block;\nimport net.minecraft.world.level.block.Blocks;\n\
+    import net.minecraft.world.level.block.state.BlockBehaviour;\nimport net.minecraft.world.level.material.MapColor;\n\
+    import net.minecraftforge.api.distmarker.Dist;\nimport net.minecraftforge.common.MinecraftForge;\n\
+    import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;\nimport net.minecraftforge.event.server.ServerStartingEvent;\n\
+    import net.minecraftforge.eventbus.api.IEventBus;\nimport net.minecraftforge.eventbus.api.SubscribeEvent;\n\
+    import net.minecraftforge.fml.common.Mod;\nimport net.minecraftforge.fml.config.ModConfig;\n\
+    import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;\nimport net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;\n\
+    import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;\nimport net.minecraftforge.registries.DeferredRegister;\n\
+    import net.minecraftforge.registries.ForgeRegistries;\nimport net.minecraftforge.registries.RegistryObject;\n\
+    import org.slf4j.Logger;\n\n// The value here should match an entry in the META-INF/mods.toml\
+    \ file\n@Mod(MTMS.MODID)\npublic class MTMS\n{\n    // Define mod id in a common\
+    \ place for everything to reference\n    public static final String MODID = \"\
+    mtms\";\n    // Directly reference a slf4j logger\n    private static final Logger\
+    \ LOGGER = LogUtils.getLogger();\n    // Create a Deferred Register to hold Blocks\
+    \ which will all be registered under the \"examplemod\" namespace\n\n\n    public\
+    \ MTMS(FMLJavaModLoadingContext context)\n    {\n        IEventBus modEventBus\
+    \ = context.getModEventBus();\n        modEventBus.addListener(this::commonSetup);\n\
+    \        MinecraftForge.EVENT_BUS.register(this);\n\n        MTMSCreativeTab.register(modEventBus);\n\
+    \        context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);\n    }\n\n\
+    \    private void commonSetup(final FMLCommonSetupEvent event)\n    {\n\n\n  \
+    \      LOGGER.info(Config.magicNumberIntroduction + Config.magicNumber);\n\n \
+    \       Config.items.forEach((item) -> LOGGER.info(\"ITEM >> {}\", item.toString()));\n\
+    \    }\n\n\n    @SubscribeEvent\n    public void onServerStarting(ServerStartingEvent\
+    \ event)\n    {\n        // Do something when the server starts\n        LOGGER.info(\"\
+    HELLO from server starting\");\n    }\n\n    // You can use EventBusSubscriber\
+    \ to automatically register all static methods in the class annotated with @SubscribeEvent\n\
+    \    @Mod.EventBusSubscriber(modid = MODID, bus = Mod.EventBusSubscriber.Bus.MOD,\
+    \ value = Dist.CLIENT)\n    public static class ClientModEvents\n    {\n     \
+    \   @SubscribeEvent\n        public static void onClientSetup(FMLClientSetupEvent\
+    \ event)\n        {\n            // Some client setup code\n            LOGGER.info(\"\
+    HELLO FROM CLIENT SETUP\");\n            LOGGER.info(\"MINECRAFT NAME >> {}\"\
+    , Minecraft.getInstance().getUser().getName());\n        }\n    }\n}\n"
+  info:
+    "size": "3232"
+    "last_modified": "2025-11-14T13:21:42.7332491"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\registry\\BlockRegistry.java"
+  content: "package ca.hybridavenger.mtms.registry;\r\n\r\nimport ca.hybridavenger.mtms.MTMS;\r\
+    \n\r\nimport net.minecraft.world.level.block.Block; // Fixed import\r\nimport\
+    \ net.minecraft.world.item.BlockItem;\r\nimport net.minecraft.world.item.Item;\r\
+    \nimport net.minecraftforge.eventbus.api.IEventBus;\r\nimport net.minecraftforge.registries.DeferredRegister;\r\
+    \nimport net.minecraftforge.registries.ForgeRegistries;\r\nimport net.minecraftforge.registries.RegistryObject;\r\
+    \n\r\nimport java.util.function.Supplier;\r\n\r\npublic class BlockRegistry {\r\
+    \n\r\n    public static final DeferredRegister<Block> BLOCKS =\r\n           \
+    \ DeferredRegister.create(ForgeRegistries.BLOCKS, MTMS.MODID);\r\n\r\n\r\n\r\n\
+    \    //Production Machines\r\n\r\n\r\n\r\n\r\n    //Power Generation Machines\r\
+    \n\r\n\r\n\r\n    private static <T extends Block> RegistryObject<T> registerBlock(String\
+    \ name, Supplier<T> block) {\r\n        RegistryObject<T> toReturn = BLOCKS.register(name,\
+    \ block);\r\n        registerBlockItem(name, toReturn);\r\n        return toReturn;\r\
+    \n    }\r\n\r\n    private static <T extends Block> void registerBlockItem(String\
+    \ name, RegistryObject<T> block) {\r\n        ItemRegistry.ITEMS.register(name,\
+    \ () -> new BlockItem(block.get(), new Item.Properties()));\r\n    }\r\n\r\n \
+    \   public static void register(IEventBus eventBus) {\r\n        BLOCKS.register(eventBus);\r\
+    \n    }\r\n}\r\n"
+  info:
+    "size": "1291"
+    "last_modified": "2025-11-14T13:21:42.7430696"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\registry\\ItemRegistry.java"
+  content: "package ca.hybridavenger.mtms.registry;\r\n\r\nimport ca.hybridavenger.mtms.MTMS;\r\
+    \nimport net.minecraft.world.item.Item;\r\nimport net.minecraftforge.eventbus.api.IEventBus;\r\
+    \nimport net.minecraftforge.registries.DeferredRegister;\r\nimport net.minecraftforge.registries.ForgeRegistries;\r\
+    \n\r\npublic class ItemRegistry {\r\n\r\n    public static final DeferredRegister<Item>\
+    \ ITEMS =\r\n            DeferredRegister.create(ForgeRegistries.ITEMS, MTMS.MODID);\r\
+    \n\r\n\r\n    //Dusts\r\n\r\n\r\n    public static void register(IEventBus eventBus)\
+    \ {\r\n        ITEMS.register(eventBus);\r\n    }\r\n}\r\n"
+  info:
+    "size": "563"
+    "last_modified": "2025-11-14T13:21:42.7460733"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\java\\ca\\hybridavenger\\mtms\\util\\MTMSCreativeTab.java"
+  content: "package ca.hybridavenger.mtms.util;\r\n\r\n\r\nimport ca.hybridavenger.hybridlib.item.ItemRegistry;\r\
+    \nimport ca.hybridavenger.mtms.MTMS;\r\nimport net.minecraft.core.registries.Registries;\r\
+    \nimport net.minecraft.network.chat.Component;\r\nimport net.minecraft.world.item.CreativeModeTab;\r\
+    \nimport net.minecraft.world.item.ItemStack;\r\nimport net.minecraftforge.eventbus.api.IEventBus;\r\
+    \nimport net.minecraftforge.registries.DeferredRegister;\r\n\r\n\r\nimport java.util.function.Supplier;\r\
+    \n\r\npublic class MTMSCreativeTab {\r\n    public static final DeferredRegister<CreativeModeTab>\
+    \ CREATIVE_MODE_TAB =\r\n            DeferredRegister.create(Registries.CREATIVE_MODE_TAB,\
+    \ MTMS.MODID);\r\n\r\n    public static final Supplier<CreativeModeTab> MTMS_TAB\
+    \ = CREATIVE_MODE_TAB.register(\"mtms_tab\",\r\n            () -> CreativeModeTab.builder().icon(()\
+    \ -> new ItemStack(ItemRegistry.NETHER_INGOT.get()))\r\n                    .title(Component.translatable(\"\
+    creativetab.mtms.tabname\"))\r\n                    .displayItems((itemDisplayParameters,\
+    \ output) -> {\r\n\r\n\r\n\r\n\r\n                    }).build());\r\n\r\n   \
+    \ public static void register(IEventBus eventBus) {\r\n        CREATIVE_MODE_TAB.register(eventBus);\r\
+    \n    }\r\n}\r\n"
+  info:
+    "size": "1177"
+    "last_modified": "2025-11-14T13:21:42.7645279"
+    "mime_type": "text/x-java-source"
+    "extension": ".java"
+- path: "main\\resources\\META-INF\\mods.toml"
+  content: "# This is an example mods.toml file. It contains the data relating to\
+    \ the loading mods.\n# There are several mandatory fields (#mandatory), and many\
+    \ more that are optional (#optional).\n# The overall format is standard TOML format,\
+    \ v0.5.0.\n# Note that there are a couple of TOML lists in this file.\n# Find\
+    \ more information on toml format here:  https://github.com/toml-lang/toml\n#\
+    \ The name of the mod loader type to load - for regular FML @Mod mods it should\
+    \ be javafml\nmodLoader=\"javafml\" #mandatory\n# A version range to match for\
+    \ said mod loader - for regular FML @Mod it will be the forge version\nloaderVersion=\"\
+    ${loader_version_range}\" #mandatory This is typically bumped every Minecraft\
+    \ version by Forge. See our download page for lists of versions.\n# The license\
+    \ for you mod. This is mandatory metadata and allows for easier comprehension\
+    \ of your redistributive properties.\n# Review your options at https://choosealicense.com/.\
+    \ All rights reserved is the default copyright stance, and is thus the default\
+    \ here.\nlicense=\"${mod_license}\"\n# A URL to refer people to when problems\
+    \ occur with this mod\n#issueTrackerURL=\"https://change.me.to.your.issue.tracker.example.invalid/\"\
+    \ #optional\n# If your mod is purely client-side and has no multiplayer functionality\
+    \ (be it dedicated servers or Open to LAN),\n# set this to true, and Forge will\
+    \ set the correct displayTest for you and skip loading your mod on dedicated servers.\n\
+    #clientSideOnly=true #optional - defaults to false if absent\n# A list of mods\
+    \ - how many allowed here is determined by the individual mod loader\n[[mods]]\
+    \ #mandatory\n# The modid of the mod\nmodId=\"${mod_id}\" #mandatory\n# The version\
+    \ number of the mod\nversion=\"${mod_version}\" #mandatory\n# A display name for\
+    \ the mod\ndisplayName=\"${mod_name}\" #mandatory\n# A URL to query for updates\
+    \ for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/\n\
+    #updateJSONURL=\"https://change.me.example.invalid/updates.json\" #optional\n\
+    # A URL for the \"homepage\" for this mod, displayed in the mod UI\n#displayURL=\"\
+    https://change.me.to.your.mods.homepage.example.invalid/\" #optional\n# A file\
+    \ name (in the root of the mod JAR) containing a logo for display\n#logoFile=\"\
+    examplemod.png\" #optional\n# A text field displayed in the mod UI\n#credits=\"\
+    \" #optional\n# A text field displayed in the mod UI\nauthors=\"${mod_authors}\"\
+    \ #optional\n# Display Test controls the display for your mod in the server connection\
+    \ screen\n# MATCH_VERSION means that your mod will cause a red X if the versions\
+    \ on client and server differ. This is the default behaviour and should be what\
+    \ you choose if you have server and client elements to your mod.\n# IGNORE_SERVER_VERSION\
+    \ means that your mod will not cause a red X if it's present on the server but\
+    \ not on the client. This is what you should use if you're a server only mod.\n\
+    # IGNORE_ALL_VERSION means that your mod will not cause a red X if it's present\
+    \ on the client or the server. This is a special case and should only be used\
+    \ if your mod has no server component.\n# NONE means that no display test is set\
+    \ on your mod. You need to do this yourself, see IExtensionPoint.DisplayTest for\
+    \ more information. You can define any scheme you wish with this value.\n# IMPORTANT\
+    \ NOTE: this is NOT an instruction as to which environments (CLIENT or DEDICATED\
+    \ SERVER) your mod loads on. Your mod should load (and maybe do nothing!) whereever\
+    \ it finds itself.\n#displayTest=\"MATCH_VERSION\" # if nothing is specified,\
+    \ MATCH_VERSION is the default when clientSideOnly=false, otherwise IGNORE_ALL_VERSION\
+    \ when clientSideOnly=true (#optional)\n\n# The description text for the mod (multi\
+    \ line!) (#mandatory)\ndescription='''${mod_description}'''\n# A dependency -\
+    \ use the . to indicate dependency for a specific modid. Dependencies are optional.\n\
+    [[dependencies.${mod_id}]] #optional\n    # the modid of the dependency\n    modId=\"\
+    forge\" #mandatory\n    # Does this dependency have to exist - if not, ordering\
+    \ below must be specified\n    mandatory=true #mandatory\n    # The version range\
+    \ of the dependency\n    versionRange=\"${forge_version_range}\" #mandatory\n\
+    \    # An ordering relationship for the dependency - BEFORE or AFTER required\
+    \ if the dependency is not mandatory\n    # BEFORE - This mod is loaded BEFORE\
+    \ the dependency\n    # AFTER - This mod is loaded AFTER the dependency\n    ordering=\"\
+    NONE\"\n    # Side this dependency is applied on - BOTH, CLIENT, or SERVER\n \
+    \   side=\"BOTH\"\n# Here's another dependency\n[[dependencies.${mod_id}]]\n \
+    \   modId=\"minecraft\"\n    mandatory=true\n    # This version range declares\
+    \ a minimum of the current minecraft version up to but not including the next\
+    \ major version\n    versionRange=\"${minecraft_version_range}\"\n    ordering=\"\
+    NONE\"\n    side=\"BOTH\"\n\n[[dependencies.${mod_id}]]\nmodId=\"hybridlib\"\n\
+    mandatory=true\n# This version range declares a minimum of the current minecraft\
+    \ version up to but not including the next major version\nversionRange=\"1.0.2-1.21.1(Forge),\
+    \ \"\nordering=\"NONE\"\nside=\"BOTH\"\n\n# Features are specific properties of\
+    \ the game environment, that you may want to declare you require. This example\
+    \ declares\n# that your mod requires GL version 3.2 or higher. Other features\
+    \ will be added. They are side aware so declaring this won't\n# stop your mod\
+    \ loading on the server for example.\n#[features.${mod_id}]\n#openGLVersion=\"\
+    [3.2,)\"\n"
+  info:
+    "size": "5325"
+    "last_modified": "2025-11-14T13:21:42.7750729"
+    "mime_type": "text/plain"
+    "extension": ".toml"
+- path: "main\\resources\\pack.mcmeta"
+  content: "{\n  \"pack\": {\n    \"description\": \"${mod_id} resources\",\n    \"\
+    pack_format\": 34\n  }\n}"
+  info:
+    "size": "83"
+    "last_modified": "2025-11-14T13:21:42.778581"
+    "mime_type": "text/plain"
+    "extension": ".mcmeta"

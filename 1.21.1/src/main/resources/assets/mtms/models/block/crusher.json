@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "mtms:block/crusher_top",
+    "front": "mtms:block/crusher_front",
+    "side": "mtms:block/crusher_side",
+    "bottom": "mtms:block/crusher_bottom"
+  }
+}

@@ -1,0 +1,1016 @@
+<XmlStructure>
+  <XmlProjectInfo>
+    <name>src</name>
+    <path>E:\MC Mod Dev\Masstech-Machines\1.21.1\src</path>
+    <generated_at>2025-11-14T13:22:06.2683108</generated_at>
+    <total_files>17</total_files>
+    <total_size>18247</total_size>
+  </XmlProjectInfo>
+  <XmlNode>
+    <XmlDirectory>
+      <name>generated</name>
+      <XmlNode>
+        <XmlDirectory>
+          <name>resources</name>
+          <XmlNode/>
+        </XmlDirectory>
+      </XmlNode>
+    </XmlDirectory>
+    <XmlDirectory>
+      <name>main</name>
+      <XmlNode>
+        <XmlDirectory>
+          <name>java</name>
+          <XmlNode>
+            <XmlDirectory>
+              <name>ca</name>
+              <XmlNode>
+                <XmlDirectory>
+                  <name>hybridavenger</name>
+                  <XmlNode>
+                    <XmlDirectory>
+                      <name>mtms</name>
+                      <XmlNode>
+                        <XmlDirectory>
+                          <name>block</name>
+                          <XmlNode>
+                            <XmlDirectory>
+                              <name>crusher</name>
+                              <XmlNode>
+                                <XmlFileEntry>
+                                  <name>CrusherBlock.java</name>
+                                  <type>file</type>
+                                  <XmlFileInfo>
+                                    <size>80</size>
+                                    <modified></modified>
+                                    <mime_type>text/x-java-source</mime_type>
+                                    <extension>.java</extension>
+                                  </XmlFileInfo>
+                                </XmlFileEntry>
+                              </XmlNode>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>generators</name>
+                              <XmlNode>
+                                <XmlDirectory>
+                                  <name>fuel</name>
+                                  <XmlNode/>
+                                </XmlDirectory>
+                                <XmlDirectory>
+                                  <name>solar</name>
+                                  <XmlNode/>
+                                </XmlDirectory>
+                                <XmlDirectory>
+                                  <name>water</name>
+                                  <XmlNode/>
+                                </XmlDirectory>
+                              </XmlNode>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>poweredfurnace</name>
+                              <XmlNode>
+                                <XmlFileEntry>
+                                  <name>PoweredFurnaceBlock.java</name>
+                                  <type>file</type>
+                                  <XmlFileInfo>
+                                    <size>94</size>
+                                    <modified></modified>
+                                    <mime_type>text/x-java-source</mime_type>
+                                    <extension>.java</extension>
+                                  </XmlFileInfo>
+                                </XmlFileEntry>
+                              </XmlNode>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>sawmill</name>
+                              <XmlNode>
+                                <XmlFileEntry>
+                                  <name>SawMillBlock.java</name>
+                                  <type>file</type>
+                                  <XmlFileInfo>
+                                    <size>80</size>
+                                    <modified></modified>
+                                    <mime_type>text/x-java-source</mime_type>
+                                    <extension>.java</extension>
+                                  </XmlFileInfo>
+                                </XmlFileEntry>
+                              </XmlNode>
+                            </XmlDirectory>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlDirectory>
+                          <name>blockentity</name>
+                          <XmlNode>
+                            <XmlDirectory>
+                              <name>crusher</name>
+                              <XmlNode>
+                                <XmlFileEntry>
+                                  <name>CrusherEntity.java</name>
+                                  <type>file</type>
+                                  <XmlFileInfo>
+                                    <size>87</size>
+                                    <modified></modified>
+                                    <mime_type>text/x-java-source</mime_type>
+                                    <extension>.java</extension>
+                                  </XmlFileInfo>
+                                </XmlFileEntry>
+                              </XmlNode>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>generators</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>poweredfurnace</name>
+                              <XmlNode>
+                                <XmlFileEntry>
+                                  <name>PoweredFurnaceEntity.java</name>
+                                  <type>file</type>
+                                  <XmlFileInfo>
+                                    <size>101</size>
+                                    <modified></modified>
+                                    <mime_type>text/x-java-source</mime_type>
+                                    <extension>.java</extension>
+                                  </XmlFileInfo>
+                                </XmlFileEntry>
+                              </XmlNode>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>sawmill</name>
+                              <XmlNode>
+                                <XmlFileEntry>
+                                  <name>SawMillEntity.java</name>
+                                  <type>file</type>
+                                  <XmlFileInfo>
+                                    <size>87</size>
+                                    <modified></modified>
+                                    <mime_type>text/x-java-source</mime_type>
+                                    <extension>.java</extension>
+                                  </XmlFileInfo>
+                                </XmlFileEntry>
+                              </XmlNode>
+                            </XmlDirectory>
+                            <XmlFileEntry>
+                              <name>ModBlockEntities.java</name>
+                              <type>file</type>
+                              <XmlFileInfo>
+                                <size>955</size>
+                                <modified></modified>
+                                <mime_type>text/x-java-source</mime_type>
+                                <extension>.java</extension>
+                              </XmlFileInfo>
+                            </XmlFileEntry>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlDirectory>
+                          <name>datagen</name>
+                          <XmlNode>
+                            <XmlFileEntry>
+                              <name>DataGenerators.java</name>
+                              <type>file</type>
+                              <XmlFileInfo>
+                                <size>1313</size>
+                                <modified></modified>
+                                <mime_type>text/x-java-source</mime_type>
+                                <extension>.java</extension>
+                              </XmlFileInfo>
+                            </XmlFileEntry>
+                            <XmlFileEntry>
+                              <name>EnglishLanguageProvider.java</name>
+                              <type>file</type>
+                              <XmlFileInfo>
+                                <size>544</size>
+                                <modified></modified>
+                                <mime_type>text/x-java-source</mime_type>
+                                <extension>.java</extension>
+                              </XmlFileInfo>
+                            </XmlFileEntry>
+                            <XmlFileEntry>
+                              <name>FrenchLanguageProvider.java</name>
+                              <type>file</type>
+                              <XmlFileInfo>
+                                <size>526</size>
+                                <modified></modified>
+                                <mime_type>text/x-java-source</mime_type>
+                                <extension>.java</extension>
+                              </XmlFileInfo>
+                            </XmlFileEntry>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlDirectory>
+                          <name>item</name>
+                          <XmlNode>
+                            <XmlDirectory>
+                              <name>fluidcables</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>itemcables</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>powercables</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlDirectory>
+                          <name>recipe</name>
+                          <XmlNode>
+                            <XmlDirectory>
+                              <name>grinder</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>poweredfurnace</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>sawmill</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlDirectory>
+                          <name>registry</name>
+                          <XmlNode>
+                            <XmlFileEntry>
+                              <name>BlockRegistry.java</name>
+                              <type>file</type>
+                              <XmlFileInfo>
+                                <size>1291</size>
+                                <modified></modified>
+                                <mime_type>text/x-java-source</mime_type>
+                                <extension>.java</extension>
+                              </XmlFileInfo>
+                            </XmlFileEntry>
+                            <XmlFileEntry>
+                              <name>ItemRegistry.java</name>
+                              <type>file</type>
+                              <XmlFileInfo>
+                                <size>563</size>
+                                <modified></modified>
+                                <mime_type>text/x-java-source</mime_type>
+                                <extension>.java</extension>
+                              </XmlFileInfo>
+                            </XmlFileEntry>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlDirectory>
+                          <name>screen</name>
+                          <XmlNode>
+                            <XmlDirectory>
+                              <name>generators</name>
+                              <XmlNode>
+                                <XmlDirectory>
+                                  <name>coal</name>
+                                  <XmlNode/>
+                                </XmlDirectory>
+                                <XmlDirectory>
+                                  <name>lava</name>
+                                  <XmlNode/>
+                                </XmlDirectory>
+                                <XmlDirectory>
+                                  <name>solar</name>
+                                  <XmlNode/>
+                                </XmlDirectory>
+                                <XmlDirectory>
+                                  <name>water</name>
+                                  <XmlNode/>
+                                </XmlDirectory>
+                              </XmlNode>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>grinder</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>poweredfurnace</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                            <XmlDirectory>
+                              <name>sawmill</name>
+                              <XmlNode/>
+                            </XmlDirectory>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlDirectory>
+                          <name>util</name>
+                          <XmlNode>
+                            <XmlFileEntry>
+                              <name>MTMSCreativeTab.java</name>
+                              <type>file</type>
+                              <XmlFileInfo>
+                                <size>1177</size>
+                                <modified></modified>
+                                <mime_type>text/x-java-source</mime_type>
+                                <extension>.java</extension>
+                              </XmlFileInfo>
+                            </XmlFileEntry>
+                          </XmlNode>
+                        </XmlDirectory>
+                        <XmlFileEntry>
+                          <name>Config.java</name>
+                          <type>file</type>
+                          <XmlFileInfo>
+                            <size>2709</size>
+                            <modified></modified>
+                            <mime_type>text/x-java-source</mime_type>
+                            <extension>.java</extension>
+                          </XmlFileInfo>
+                        </XmlFileEntry>
+                        <XmlFileEntry>
+                          <name>MTMS.java</name>
+                          <type>file</type>
+                          <XmlFileInfo>
+                            <size>3232</size>
+                            <modified></modified>
+                            <mime_type>text/x-java-source</mime_type>
+                            <extension>.java</extension>
+                          </XmlFileInfo>
+                        </XmlFileEntry>
+                      </XmlNode>
+                    </XmlDirectory>
+                  </XmlNode>
+                </XmlDirectory>
+              </XmlNode>
+            </XmlDirectory>
+          </XmlNode>
+        </XmlDirectory>
+        <XmlDirectory>
+          <name>resources</name>
+          <XmlNode>
+            <XmlDirectory>
+              <name>META-INF</name>
+              <XmlNode>
+                <XmlFileEntry>
+                  <name>mods.toml</name>
+                  <type>file</type>
+                  <XmlFileInfo>
+                    <size>5325</size>
+                    <modified></modified>
+                    <mime_type>text/plain</mime_type>
+                    <extension>.toml</extension>
+                  </XmlFileInfo>
+                </XmlFileEntry>
+              </XmlNode>
+            </XmlDirectory>
+            <XmlFileEntry>
+              <name>pack.mcmeta</name>
+              <type>file</type>
+              <XmlFileInfo>
+                <size>83</size>
+                <modified></modified>
+                <mime_type>text/plain</mime_type>
+                <extension>.mcmeta</extension>
+              </XmlFileInfo>
+            </XmlFileEntry>
+          </XmlNode>
+        </XmlDirectory>
+      </XmlNode>
+    </XmlDirectory>
+    <XmlDirectory>
+      <name>test</name>
+      <XmlNode>
+        <XmlDirectory>
+          <name>java</name>
+          <XmlNode/>
+        </XmlDirectory>
+        <XmlDirectory>
+          <name>resources</name>
+          <XmlNode/>
+        </XmlDirectory>
+      </XmlNode>
+    </XmlDirectory>
+  </XmlNode>
+  <XmlFiles>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\block\crusher\CrusherBlock.java</path>
+      <content>package ca.hybridavenger.mtms.block.crusher;&#xd;
+&#xd;
+public class CrusherBlock {&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>80</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\block\poweredfurnace\PoweredFurnaceBlock.java</path>
+      <content>package ca.hybridavenger.mtms.block.poweredfurnace;&#xd;
+&#xd;
+public class PoweredFurnaceBlock {&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>94</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\block\sawmill\SawMillBlock.java</path>
+      <content>package ca.hybridavenger.mtms.block.sawmill;&#xd;
+&#xd;
+public class SawMillBlock {&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>80</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\blockentity\crusher\CrusherEntity.java</path>
+      <content>package ca.hybridavenger.mtms.blockentity.crusher;&#xd;
+&#xd;
+public class CrusherEntity {&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>87</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\blockentity\ModBlockEntities.java</path>
+      <content>package ca.hybridavenger.mtms.blockentity;&#xd;
+&#xd;
+import ca.hybridavenger.mtms.MTMS;&#xd;
+import ca.hybridavenger.mtms.blockentity.crusher.CrusherEntity;&#xd;
+import net.minecraft.world.level.block.entity.BlockEntityType;&#xd;
+import net.minecraftforge.eventbus.api.IEventBus;&#xd;
+import net.minecraftforge.registries.DeferredRegister;&#xd;
+import net.minecraftforge.registries.ForgeRegistries;&#xd;
+&#xd;
+public class ModBlockEntities {&#xd;
+    public static final DeferredRegister&lt;BlockEntityType&lt;?>> BLOCK_ENTITIES =&#xd;
+            DeferredRegister.create(ForgeRegistries.BLOCK_ENTITY_TYPES, MTMS.MODID);&#xd;
+&#xd;
+&#xd;
+&#xd;
+    public static final RegistryObject&lt;BlockEntityType&lt;CrusherEntity>> CRUSHER_BE =&#xd;
+            BLOCK_ENTITIES.register("crusher_be", () -> BlockEntityType.Builder.of(&#xd;
+                    CrusherEntity::new, BlockRegistry.FUSION_CHAMBER.get()).build(null));&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+    public static void register(IEventBus eventBus) {&#xd;
+        BLOCK_ENTITIES.register(eventBus);&#xd;
+    }&#xd;
+}</content>
+      <XmlFileInfo>
+        <size>955</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\blockentity\poweredfurnace\PoweredFurnaceEntity.java</path>
+      <content>package ca.hybridavenger.mtms.blockentity.poweredfurnace;&#xd;
+&#xd;
+public class PoweredFurnaceEntity {&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>101</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\blockentity\sawmill\SawMillEntity.java</path>
+      <content>package ca.hybridavenger.mtms.blockentity.sawmill;&#xd;
+&#xd;
+public class SawMillEntity {&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>87</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\Config.java</path>
+      <content>package ca.hybridavenger.mtms;
+
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.world.item.Item;
+import net.minecraftforge.common.ForgeConfigSpec;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.event.config.ModConfigEvent;
+import net.minecraftforge.registries.ForgeRegistries;
+
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
+
+// An example config class. This is not required, but it's a good idea to have one to keep your config organized.
+// Demonstrates how to use Forge's config APIs
+@Mod.EventBusSubscriber(modid = MTMS.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
+public class Config
+{
+    private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
+
+    private static final ForgeConfigSpec.BooleanValue LOG_DIRT_BLOCK = BUILDER
+            .comment("Whether to log the dirt block on common setup")
+            .define("logDirtBlock", true);
+
+    private static final ForgeConfigSpec.IntValue MAGIC_NUMBER = BUILDER
+            .comment("A magic number")
+            .defineInRange("magicNumber", 42, 0, Integer.MAX_VALUE);
+
+    public static final ForgeConfigSpec.ConfigValue&lt;String> MAGIC_NUMBER_INTRODUCTION = BUILDER
+            .comment("What you want the introduction message to be for the magic number")
+            .define("magicNumberIntroduction", "The magic number is... ");
+
+    // a list of strings that are treated as resource locations for items
+    private static final ForgeConfigSpec.ConfigValue&lt;List&lt;? extends String>> ITEM_STRINGS = BUILDER
+            .comment("A list of items to log on common setup.")
+            .defineListAllowEmpty("items", List.of("minecraft:iron_ingot"), Config::validateItemName);
+
+    static final ForgeConfigSpec SPEC = BUILDER.build();
+
+    public static boolean logDirtBlock;
+    public static int magicNumber;
+    public static String magicNumberIntroduction;
+    public static Set&lt;Item> items;
+
+    private static boolean validateItemName(final Object obj)
+    {
+        return obj instanceof final String itemName &amp;&amp; ForgeRegistries.ITEMS.containsKey(ResourceLocation.tryParse(itemName));
+    }
+
+    @SubscribeEvent
+    static void onLoad(final ModConfigEvent event)
+    {
+        logDirtBlock = LOG_DIRT_BLOCK.get();
+        magicNumber = MAGIC_NUMBER.get();
+        magicNumberIntroduction = MAGIC_NUMBER_INTRODUCTION.get();
+
+        // convert the list of strings into a set of items
+        items = ITEM_STRINGS.get().stream()
+                .map(itemName -> ForgeRegistries.ITEMS.getValue(ResourceLocation.tryParse(itemName)))
+                .collect(Collectors.toSet());
+    }
+}
+</content>
+      <XmlFileInfo>
+        <size>2709</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\datagen\DataGenerators.java</path>
+      <content>package ca.hybridavenger.mtms.datagen;&#xd;
+&#xd;
+import ca.hybridavenger.mtms.MTMS;&#xd;
+import net.minecraft.core.HolderLookup;&#xd;
+import net.minecraft.data.DataGenerator;&#xd;
+import net.minecraft.data.PackOutput;&#xd;
+import net.minecraft.data.loot.LootTableProvider;&#xd;
+import net.minecraftforge.common.data.ExistingFileHelper;&#xd;
+import net.minecraftforge.data.event.GatherDataEvent;&#xd;
+import net.minecraftforge.eventbus.api.SubscribeEvent;&#xd;
+import net.minecraftforge.fml.common.Mod;&#xd;
+&#xd;
+import java.util.Collections;&#xd;
+import java.util.List;&#xd;
+import java.util.concurrent.CompletableFuture;&#xd;
+&#xd;
+@Mod.EventBusSubscriber(modid = MTMS.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)&#xd;
+public class DataGenerators {&#xd;
+&#xd;
+    @SubscribeEvent&#xd;
+    public static void gatherData(GatherDataEvent event){&#xd;
+        DataGenerator generator = event.getGenerator();&#xd;
+        PackOutput packOutput = generator.getPackOutput();&#xd;
+        ExistingFileHelper existingFileHelper = event.getExistingFileHelper();&#xd;
+        CompletableFuture&lt;HolderLookup.Provider> lookupProvider = event.getLookupProvider();&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+        //Languages(WIP)&#xd;
+        generator.addProvider(event.includeClient(), new EnglishLanguageProvider(packOutput, "en_us"));&#xd;
+        generator.addProvider(event.includeClient(), new FrenchLanguageProvider(packOutput, "fr_fr"));&#xd;
+&#xd;
+&#xd;
+    }&#xd;
+}</content>
+      <XmlFileInfo>
+        <size>1313</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\datagen\EnglishLanguageProvider.java</path>
+      <content>package ca.hybridavenger.mtms.datagen;&#xd;
+&#xd;
+import ca.hybridavenger.mtms.MTMS;&#xd;
+import net.minecraft.data.PackOutput;&#xd;
+import net.minecraftforge.common.data.LanguageProvider;&#xd;
+&#xd;
+public class EnglishLanguageProvider extends LanguageProvider&#xd;
+{&#xd;
+    public EnglishLanguageProvider(PackOutput output, String locale) {&#xd;
+        super(output, MTMS.MODID, locale);&#xd;
+&#xd;
+    }&#xd;
+&#xd;
+    @Override&#xd;
+    protected void addTranslations() {&#xd;
+        //Items&#xd;
+&#xd;
+&#xd;
+        //Blocks&#xd;
+&#xd;
+&#xd;
+&#xd;
+        add("creativetab.mtms.tabname", "MassTech Machinerie");&#xd;
+    }&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>544</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\datagen\FrenchLanguageProvider.java</path>
+      <content>package ca.hybridavenger.mtms.datagen;&#xd;
+&#xd;
+import ca.hybridavenger.mtms.MTMS;&#xd;
+import net.minecraft.data.PackOutput;&#xd;
+import net.minecraftforge.common.data.LanguageProvider;&#xd;
+&#xd;
+public class FrenchLanguageProvider extends LanguageProvider {&#xd;
+&#xd;
+    public FrenchLanguageProvider(PackOutput output, String locale) {&#xd;
+        super(output, MTMS.MODID, locale);&#xd;
+    }&#xd;
+&#xd;
+    @Override&#xd;
+    protected void addTranslations() {&#xd;
+        //Items&#xd;
+&#xd;
+&#xd;
+        add("creativetab.mtms.tabname", "Mod de bibliothèque hybride");&#xd;
+&#xd;
+    }&#xd;
+}</content>
+      <XmlFileInfo>
+        <size>526</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\MTMS.java</path>
+      <content>package ca.hybridavenger.mtms;
+
+import ca.hybridavenger.mtms.util.MTMSCreativeTab;
+import com.mojang.logging.LogUtils;
+import net.minecraft.client.Minecraft;
+import net.minecraft.core.registries.Registries;
+import net.minecraft.world.food.FoodProperties;
+import net.minecraft.world.item.BlockItem;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.CreativeModeTabs;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.material.MapColor;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
+import net.minecraftforge.event.server.ServerStartingEvent;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.config.ModConfig;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.RegistryObject;
+import org.slf4j.Logger;
+
+// The value here should match an entry in the META-INF/mods.toml file
+@Mod(MTMS.MODID)
+public class MTMS
+{
+    // Define mod id in a common place for everything to reference
+    public static final String MODID = "mtms";
+    // Directly reference a slf4j logger
+    private static final Logger LOGGER = LogUtils.getLogger();
+    // Create a Deferred Register to hold Blocks which will all be registered under the "examplemod" namespace
+
+
+    public MTMS(FMLJavaModLoadingContext context)
+    {
+        IEventBus modEventBus = context.getModEventBus();
+        modEventBus.addListener(this::commonSetup);
+        MinecraftForge.EVENT_BUS.register(this);
+
+        MTMSCreativeTab.register(modEventBus);
+        context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+    }
+
+    private void commonSetup(final FMLCommonSetupEvent event)
+    {
+
+
+        LOGGER.info(Config.magicNumberIntroduction + Config.magicNumber);
+
+        Config.items.forEach((item) -> LOGGER.info("ITEM >> {}", item.toString()));
+    }
+
+
+    @SubscribeEvent
+    public void onServerStarting(ServerStartingEvent event)
+    {
+        // Do something when the server starts
+        LOGGER.info("HELLO from server starting");
+    }
+
+    // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
+    @Mod.EventBusSubscriber(modid = MODID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+    public static class ClientModEvents
+    {
+        @SubscribeEvent
+        public static void onClientSetup(FMLClientSetupEvent event)
+        {
+            // Some client setup code
+            LOGGER.info("HELLO FROM CLIENT SETUP");
+            LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+        }
+    }
+}
+</content>
+      <XmlFileInfo>
+        <size>3232</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\registry\BlockRegistry.java</path>
+      <content>package ca.hybridavenger.mtms.registry;&#xd;
+&#xd;
+import ca.hybridavenger.mtms.MTMS;&#xd;
+&#xd;
+import net.minecraft.world.level.block.Block; // Fixed import&#xd;
+import net.minecraft.world.item.BlockItem;&#xd;
+import net.minecraft.world.item.Item;&#xd;
+import net.minecraftforge.eventbus.api.IEventBus;&#xd;
+import net.minecraftforge.registries.DeferredRegister;&#xd;
+import net.minecraftforge.registries.ForgeRegistries;&#xd;
+import net.minecraftforge.registries.RegistryObject;&#xd;
+&#xd;
+import java.util.function.Supplier;&#xd;
+&#xd;
+public class BlockRegistry {&#xd;
+&#xd;
+    public static final DeferredRegister&lt;Block> BLOCKS =&#xd;
+            DeferredRegister.create(ForgeRegistries.BLOCKS, MTMS.MODID);&#xd;
+&#xd;
+&#xd;
+&#xd;
+    //Production Machines&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+    //Power Generation Machines&#xd;
+&#xd;
+&#xd;
+&#xd;
+    private static &lt;T extends Block> RegistryObject&lt;T> registerBlock(String name, Supplier&lt;T> block) {&#xd;
+        RegistryObject&lt;T> toReturn = BLOCKS.register(name, block);&#xd;
+        registerBlockItem(name, toReturn);&#xd;
+        return toReturn;&#xd;
+    }&#xd;
+&#xd;
+    private static &lt;T extends Block> void registerBlockItem(String name, RegistryObject&lt;T> block) {&#xd;
+        ItemRegistry.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));&#xd;
+    }&#xd;
+&#xd;
+    public static void register(IEventBus eventBus) {&#xd;
+        BLOCKS.register(eventBus);&#xd;
+    }&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>1291</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\registry\ItemRegistry.java</path>
+      <content>package ca.hybridavenger.mtms.registry;&#xd;
+&#xd;
+import ca.hybridavenger.mtms.MTMS;&#xd;
+import net.minecraft.world.item.Item;&#xd;
+import net.minecraftforge.eventbus.api.IEventBus;&#xd;
+import net.minecraftforge.registries.DeferredRegister;&#xd;
+import net.minecraftforge.registries.ForgeRegistries;&#xd;
+&#xd;
+public class ItemRegistry {&#xd;
+&#xd;
+    public static final DeferredRegister&lt;Item> ITEMS =&#xd;
+            DeferredRegister.create(ForgeRegistries.ITEMS, MTMS.MODID);&#xd;
+&#xd;
+&#xd;
+    //Dusts&#xd;
+&#xd;
+&#xd;
+    public static void register(IEventBus eventBus) {&#xd;
+        ITEMS.register(eventBus);&#xd;
+    }&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>563</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\java\ca\hybridavenger\mtms\util\MTMSCreativeTab.java</path>
+      <content>package ca.hybridavenger.mtms.util;&#xd;
+&#xd;
+&#xd;
+import ca.hybridavenger.hybridlib.item.ItemRegistry;&#xd;
+import ca.hybridavenger.mtms.MTMS;&#xd;
+import net.minecraft.core.registries.Registries;&#xd;
+import net.minecraft.network.chat.Component;&#xd;
+import net.minecraft.world.item.CreativeModeTab;&#xd;
+import net.minecraft.world.item.ItemStack;&#xd;
+import net.minecraftforge.eventbus.api.IEventBus;&#xd;
+import net.minecraftforge.registries.DeferredRegister;&#xd;
+&#xd;
+&#xd;
+import java.util.function.Supplier;&#xd;
+&#xd;
+public class MTMSCreativeTab {&#xd;
+    public static final DeferredRegister&lt;CreativeModeTab> CREATIVE_MODE_TAB =&#xd;
+            DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MTMS.MODID);&#xd;
+&#xd;
+    public static final Supplier&lt;CreativeModeTab> MTMS_TAB = CREATIVE_MODE_TAB.register("mtms_tab",&#xd;
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ItemRegistry.NETHER_INGOT.get()))&#xd;
+                    .title(Component.translatable("creativetab.mtms.tabname"))&#xd;
+                    .displayItems((itemDisplayParameters, output) -> {&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+                    }).build());&#xd;
+&#xd;
+    public static void register(IEventBus eventBus) {&#xd;
+        CREATIVE_MODE_TAB.register(eventBus);&#xd;
+    }&#xd;
+}&#xd;
+</content>
+      <XmlFileInfo>
+        <size>1177</size>
+        <modified></modified>
+        <mime_type>text/x-java-source</mime_type>
+        <extension>.java</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\resources\META-INF\mods.toml</path>
+      <content># This is an example mods.toml file. It contains the data relating to the loading mods.
+# There are several mandatory fields (#mandatory), and many more that are optional (#optional).
+# The overall format is standard TOML format, v0.5.0.
+# Note that there are a couple of TOML lists in this file.
+# Find more information on toml format here:  https://github.com/toml-lang/toml
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+modLoader="javafml" #mandatory
+# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+loaderVersion="${loader_version_range}" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+# The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+license="${mod_license}"
+# A URL to refer people to when problems occur with this mod
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+# If your mod is purely client-side and has no multiplayer functionality (be it dedicated servers or Open to LAN),
+# set this to true, and Forge will set the correct displayTest for you and skip loading your mod on dedicated servers.
+#clientSideOnly=true #optional - defaults to false if absent
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+# The modid of the mod
+modId="${mod_id}" #mandatory
+# The version number of the mod
+version="${mod_version}" #mandatory
+# A display name for the mod
+displayName="${mod_name}" #mandatory
+# A URL to query for updates for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+# A URL for the "homepage" for this mod, displayed in the mod UI
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+# A file name (in the root of the mod JAR) containing a logo for display
+#logoFile="examplemod.png" #optional
+# A text field displayed in the mod UI
+#credits="" #optional
+# A text field displayed in the mod UI
+authors="${mod_authors}" #optional
+# Display Test controls the display for your mod in the server connection screen
+# MATCH_VERSION means that your mod will cause a red X if the versions on client and server differ. This is the default behaviour and should be what you choose if you have server and client elements to your mod.
+# IGNORE_SERVER_VERSION means that your mod will not cause a red X if it's present on the server but not on the client. This is what you should use if you're a server only mod.
+# IGNORE_ALL_VERSION means that your mod will not cause a red X if it's present on the client or the server. This is a special case and should only be used if your mod has no server component.
+# NONE means that no display test is set on your mod. You need to do this yourself, see IExtensionPoint.DisplayTest for more information. You can define any scheme you wish with this value.
+# IMPORTANT NOTE: this is NOT an instruction as to which environments (CLIENT or DEDICATED SERVER) your mod loads on. Your mod should load (and maybe do nothing!) whereever it finds itself.
+#displayTest="MATCH_VERSION" # if nothing is specified, MATCH_VERSION is the default when clientSideOnly=false, otherwise IGNORE_ALL_VERSION when clientSideOnly=true (#optional)
+
+# The description text for the mod (multi line!) (#mandatory)
+description='''${mod_description}'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.${mod_id}]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="${forge_version_range}" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the dependency is not mandatory
+    # BEFORE - This mod is loaded BEFORE the dependency
+    # AFTER - This mod is loaded AFTER the dependency
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT, or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    # This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="hybridlib"
+mandatory=true
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+versionRange="1.0.2-1.21.1(Forge), "
+ordering="NONE"
+side="BOTH"
+
+# Features are specific properties of the game environment, that you may want to declare you require. This example declares
+# that your mod requires GL version 3.2 or higher. Other features will be added. They are side aware so declaring this won't
+# stop your mod loading on the server for example.
+#[features.${mod_id}]
+#openGLVersion="[3.2,)"
+</content>
+      <XmlFileInfo>
+        <size>5325</size>
+        <modified></modified>
+        <mime_type>text/plain</mime_type>
+        <extension>.toml</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+    <XmlFileContent>
+      <path>main\resources\pack.mcmeta</path>
+      <content>{
+  "pack": {
+    "description": "${mod_id} resources",
+    "pack_format": 34
+  }
+}</content>
+      <XmlFileInfo>
+        <size>83</size>
+        <modified></modified>
+        <mime_type>text/plain</mime_type>
+        <extension>.mcmeta</extension>
+      </XmlFileInfo>
+    </XmlFileContent>
+  </XmlFiles>
+</XmlStructure>
