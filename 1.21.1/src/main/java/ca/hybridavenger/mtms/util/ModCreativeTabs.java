@@ -1,5 +1,6 @@
 package ca.hybridavenger.mtms.util;
 
+
 import ca.hybridavenger.hybridlib.item.ItemRegistry;
 import ca.hybridavenger.mtms.MTMS;
 import ca.hybridavenger.mtms.registry.BlockRegistry;
@@ -22,9 +23,7 @@ public class ModCreativeTabs {
                     .title(Component.translatable("creativetab.hybridlib.hybridtab"))
                     .displayItems((itemDisplayParameters, output) -> {
 
-
-                        output.accept(BlockRegistry.CRUSHER_BLOCK.get());
-
+                    output.accept(BlockRegistry.CRUSHER.get());
 
 
                     }).build());

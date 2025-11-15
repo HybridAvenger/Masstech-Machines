@@ -24,7 +24,7 @@ public class BlockRegistry {
 
 
     //Production Machines
-    public static final RegistryObject<Block> CRUSHER = registerBlock("crusher",
+    public static final RegistryObject<CrusherBlock> CRUSHER = registerBlock("crusher",
             () -> new CrusherBlock(BlockBehaviour.Properties.of()));
 
 
@@ -41,7 +41,8 @@ public class BlockRegistry {
     }
 
     private static <T extends Block> void registerBlockItem(String name, RegistryObject<T> block) {
-        ItemRegistry.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
+        ItemRegistry.ITEMS.register(name, () -> new BlockItem(block.get(),
+                new Item.Properties())); // Remove any custom properties if you have them
     }
 
     public static void register(IEventBus eventBus) {
